@@ -16,5 +16,10 @@
 # Machine‌ ‌Learning Algorithms:
 Here you can find Jupyter Notebooks with the codes that I made to better understand how to apply each algorithm, as well as perform analysis and other processes.
 
-* **[Emergency 911 Calls:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[Linear Regression:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[Logistic Regression:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[Decision Trees and Random Forest Project:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[K Nearest Neighbors:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[K Means:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[Support Vector Machines:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
 
