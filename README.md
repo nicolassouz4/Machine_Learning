@@ -16,10 +16,10 @@
 # Machine‌ ‌Learning Algorithms:
 Here you can find Jupyter Notebooks with the codes that I made to better understand how to apply each algorithm, as well as perform analysis and other processes.
 
-* **[Linear Regression:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
-* **[Logistic Regression:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
-* **[Decision Trees and Random Forest Project:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
-* **[K Nearest Neighbors:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
-* **[K Means:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
-* **[Support Vector Machines:](https://github.com/nicolassouz4/Data_Science/tree/main/Emergency%20-%20911%20Calls)**
+* **[Linear Regression](https://github.com/nicolassouz4/Machine_Learning/blob/main/1.%20Linear%20Regression%20Project.ipynb)**
+* **[Logistic Regression](https://github.com/nicolassouz4/Machine_Learning/blob/main/2.%20Logistic%20Regression%20Project.ipynb)**
+* **[K Nearest Neighbors](https://github.com/nicolassouz4/Machine_Learning/blob/main/3.%20K%20Nearest%20Neighbors%20Project.ipynb)**
+* **[Decision Trees and Random Forest Project](https://github.com/nicolassouz4/Machine_Learning/blob/main/4.%20Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)**
+* **[K Means](https://github.com/nicolassouz4/Machine_Learning/blob/main/5.%20K%20Means%20Clustering%20Project.ipynb)**
+* **[Support Vector Machines](https://github.com/nicolassouz4/Machine_Learning/blob/main/6.%20Support%20Vector%20Machines%20Project.ipynb)**
 
