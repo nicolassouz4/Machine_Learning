@@ -13,7 +13,7 @@
 </p> -->
 
 
-# Machine‌ ‌Learning Algorithms:
+# Machine‌ ‌Learning Algorithms
 Here you can find Jupyter Notebooks with the codes that I made to better understand how to apply each algorithm, as well as perform analysis and other processes.<br>
 
 <hr><b>🗂️ Sklearn (Pandas)</b> <br>
