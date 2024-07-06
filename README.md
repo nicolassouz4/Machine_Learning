@@ -19,7 +19,7 @@ Here you can find Jupyter Notebooks with the codes that I made to better underst
 * **[Linear Regression](https://github.com/nicolassouz4/Machine_Learning/blob/f49339516d3f01e8974d7883e8128b53f6369f1c/Scikit-learn/1.%20Linear%20Regression/Linear%20Regression%20Project.ipynb)**
 * **[Logistic Regression](https://github.com/nicolassouz4/Machine_Learning/blob/73d1fdb7de6523ab570ee6252cd6d2486ffc8aa2/Scikit-learn/2.%20Logistic%20Regression/Logistic%20Regression%20Project.ipynb)**
 * **[K Nearest Neighbors](https://github.com/nicolassouz4/Machine_Learning/blob/f49339516d3f01e8974d7883e8128b53f6369f1c/Scikit-learn/3.%20K%20Nearest%20Neighbors/K%20Nearest%20Neighbors%20Project.ipynb)**
-* **[Decision Trees and Random Forest Project](https://github.com/nicolassouz4/Machine_Learning/blob/f49339516d3f01e8974d7883e8128b53f6369f1c/Scikit-learn/4.%20Decision%20Trees%20and%20Random%20Forest/Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)**
+* **[Decision Trees and Random Forest Project](https://github.com/nicolassouz4/Machine_Learning/blob/ece9b0ae8c6adca605bb8025839c30c609f28719/Scikit-learn/4.%20Decision%20Trees%20and%20Random%20Forest/Decision%20Trees%20and%20Random%20Forest%20Project.ipynb)**
 * **[K Means](https://github.com/nicolassouz4/Machine_Learning/blob/f49339516d3f01e8974d7883e8128b53f6369f1c/Scikit-learn/5.%20K%20Means%20Clustering/K%20Means%20Clustering%20Project.ipynb)**
 * **[Support Vector Machines](https://github.com/nicolassouz4/Machine_Learning/blob/f49339516d3f01e8974d7883e8128b53f6369f1c/Scikit-learn/6.%20Support%20Vector%20Machines/Support%20Vector%20Machines%20Project.ipynb)**
 
